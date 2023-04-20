@@ -1,7 +1,5 @@
 <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/pia23645_pbd_main-16.jpg" alt="Cover Picture" width="960" height="400">
 <div style="background-color: #282a36; display: flex; align-items: center; justify-content: space-between; padding: 10px;">
-
-  
   <div style="background-color: #282a36; display: flex; flex-direction: column; justify-content: center;">
     <div style="background-color: #282a36; color: #f8f8f2;">
       <h1>Don't try <img src="https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif" alt="Tuxel" width="50" height="50"></h1>
@@ -20,10 +18,8 @@
       <p><img src="https://github-readme-stats.vercel.app/api?username=xuantruongit32&show_icons=true&theme=dracula" alt="GitHub Stats"/></p>
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantruongit32&layout=compact&theme=dracula" alt="Top Languages"/></p>
       <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xuantruongit32&theme=dracula" alt="GitHub Streak"/></p>
-     
     </div>
   </div>
   <div style="display: flex; align-items: flex-end;">
- 
   </div>
-
+</div>
