@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Truong</h1>
-<h3 align="center">Don't try</h3>
+<h1 align="center">Don't try</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuantruongit32&label=Profile%20views&color=0e75b6&style=flat" alt="xuantruongit32" /> </p>
 
