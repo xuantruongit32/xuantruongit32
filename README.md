@@ -22,16 +22,16 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; height: 300px; margin-bottom: 40px;">
       <a href="https://github.com/xuantruongit32/Remap-keyboard" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=Remap-keyboard&theme=dracula" style="height: 100%;"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=Remap-keyboard&theme=tokyonight" style="height: 100%;"/>
       </a>
       <a href="https://github.com/xuantruongit32/Nvim-Config" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=Nvim-Config&theme=dracula" style="height: 100%;"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=Nvim-Config&theme=tokyonight" style="height: 100%;"/>
       </a>
        <a href="https://github.com/xuantruongit32/fym" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=fym&theme=dracula" style="height: 100%;"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=fym&theme=nightowl" style="height: 100%;"/>
       </a>
        <a href="https://github.com/xuantruongit32/ProjectThuatToan" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=ProjectThuatToan&theme=dracula" style="height: 100%;"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=ProjectThuatToan&theme=nightowl" style="height: 100%;"/>
       </a>
     </div>
   </div>
