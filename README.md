@@ -1,8 +1,6 @@
 <img src="https://www.nasa.gov/wp-content/uploads/2020/02/pia23645_pbd_main-16.jpg" alt="Cover Picture" width="960" height="400">
 <div style="background-color: #282a36; padding: 10px;">
-  <h1 style="color: #f8f8f2; display: flex; align-items: center; justify-content: center;">
-    dontry <img src="https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif" alt="Tuxel" width="50" height="50" style="margin-left: 10px;">
-  </h1>
+  
   <div style="background-color: #282a36; color: #f8f8f2; display: flex; flex-direction: column; align-items: center;">
     <h3></h3>
     <p 
