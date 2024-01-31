@@ -20,7 +20,7 @@
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=fym&theme=nightowl" style="height: 100%;"/>
       </a>
        <a href="https://github.com/xuantruongit32/money-manager" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=taixiu_app&theme=nightowl" style="height: 100%;"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=money-manager&theme=nightowl" style="height: 100%;"/>
       </a>
     </div>
   </div>
