@@ -16,8 +16,8 @@
       <a href="https://github.com/xuantruongit32/cleantiktok" style="margin: 5px;">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=cleantiktok&theme=tokyonight" style="height: 100%;"/>
       </a>
-       <a href="https://github.com/xuantruongit32/fym" style="margin: 5px;">
-        <img src="https://github.com/xuantruongit32/zoomanager&theme=nightowl" style="height: 100%;"/>
+       <a href="https://github.com/xuantruongit32/zoomanager" style="margin: 5px;">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=zoomanager&theme=tokyonight"style="height: 100%;"/>
       </a>
        <a href="https://github.com/xuantruongit32/money-manager" style="margin: 5px;">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=money-manager&theme=nightowl" style="height: 100%;"/>
