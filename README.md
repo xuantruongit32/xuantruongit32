@@ -6,7 +6,6 @@
     <p 
     </p>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-bottom: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantruongit32&theme=dracula" alt="Top Languages" style="margin: 5px; height: 200px;"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuantruongit32&theme=dracula" alt="GitHub Streak" style="margin: 5px; height: 200px;"/>
     </div>
   
