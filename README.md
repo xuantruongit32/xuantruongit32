@@ -9,19 +9,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantruongit32&theme=dracula" alt="Top Languages" style="margin: 5px; height: 200px;"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuantruongit32&theme=dracula" alt="GitHub Streak" style="margin: 5px; height: 200px;"/>
     </div>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; height: 300px; margin-bottom: 40px;">
-      <a href="https://github.com/xuantruongit32/Remap-keyboard" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=Remap-keyboard&theme=tokyonight" style="height: 100%;"/>
-      </a>
-      <a href="https://github.com/xuantruongit32/cleantiktok" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=cleantiktok&theme=tokyonight" style="height: 100%;"/>
-      </a>
-       <a href="https://github.com/xuantruongit32/zoomanager" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=zoomanager&theme=tokyonight"style="height: 100%;"/>
-      </a>
-       <a href="https://github.com/xuantruongit32/money-manager" style="margin: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuantruongit32&repo=money-manager&theme=nightowl" style="height: 100%;"/>
-      </a>
-    </div>
+  
   </div>
 </div>
