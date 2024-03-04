@@ -3,7 +3,7 @@
         <h3></h3>
         <p></p>
         <div style="display: flex; justify-content: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuantruongit32&theme=dracula" alt="GitHub Streak" style="margin: 5px; height: 200px; width: 400px;">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuantruongit32&theme=dracula" alt="GitHub Streak" style="margin: 5px; height: 200px;">
         </div>
     </div>
 </div>
